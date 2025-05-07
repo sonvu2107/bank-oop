@@ -1,2 +1,2 @@
 # bank-oop
-i'm just a newbie trying to learn code
+this is a bank manage with 5 features using oop
